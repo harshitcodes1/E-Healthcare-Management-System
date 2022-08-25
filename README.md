@@ -1,6 +1,6 @@
 # E-healthCare
 
-It consists of a website which is designed using HTML and CSS, in which the user can register himself / herself and also fetch the details by login. The Database is designed in MySql connectivity is done in java.
+It consists of a website which is designed using HTML and CSS, in which the user can register himself / herself and also fetch the details by login. The Database is designed in MySql connectivity is done in java using JSP.
 
 HOME PAGE:
 ![home](https://user-images.githubusercontent.com/85962716/167902702-40677adb-83cd-418f-80f8-249465608098.png)
